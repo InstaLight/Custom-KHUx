@@ -14,7 +14,7 @@ InstaLight is a small Youtuber and software developer. In fact, you should go ch
 
 Join the Discord to talk about and suggest things for Custom KHUx! https://discord.gg/txaJ6c5
 
-### Multiplayer Testing
+### Beta Testing
 
 PC- InstaLight and Dameb (Peridox)
 
@@ -22,6 +22,7 @@ Android- Ninjex and InstaLight
 
 Message me or ping me if you want to sign up for either one
 
+We are also currently lokking for artic people who wouldn't mind helping out with the game.
 
 
 
