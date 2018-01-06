@@ -10,5 +10,10 @@ If you are interested in being a beta tester, message me on discord at Iηѕтα
 InstaLight is a small Youtuber and software developer. In fact, you should go check him out on his [YouTube Channel](https://www.youtube.com/channel/UCaPMIrGFUql7Me5W-6j-nMA?view_as=subscriber)
 
 
+### Discord
+
+Join the Discord to talk about and suggest things for Custom KHUx! https://discord.gg/txaJ6c5
+
+
 
 ### More info is soon to come!
