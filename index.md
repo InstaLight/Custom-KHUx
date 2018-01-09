@@ -18,7 +18,7 @@ Join the Discord to talk about and suggest things for Custom KHUx! https://disco
 
 PC- InstaLight and Dameb (Peridox)
 
-Android- Ninjex, InstaLight, Lopa
+Android- Ninjex, InstaLight, Lopa, Cheez
 
 Message me or ping me if you want to sign up for either one
 
