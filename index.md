@@ -24,6 +24,12 @@ Message me or ping me if you want to sign up for either one
 
 We are also currently lokking for artic people who wouldn't mind helping out with the game.
 
+### News
+
+The first Custom Medal has been decided! Introducing Knuckles EX!
+![Knuckles](https://cdn.discordapp.com/attachments/398579942021005314/401573536352960516/image.jpg)
+
+
 
 
 ### More info is soon to come!
