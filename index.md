@@ -16,7 +16,7 @@ Join the Discord to talk about and suggest things for Custom KHUx! https://disco
 
 ### Beta Testing
 
-PC- InstaLight and Dameb (Peridox)
+PC- InstaLight, Dameb (Peridox), Billy Mays
 
 Android- Ninjex, InstaLight, Lopa, Cheez
 
