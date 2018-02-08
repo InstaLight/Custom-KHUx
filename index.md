@@ -1,3 +1,5 @@
+![Custom KHUx](https://cdn.discordapp.com/attachments/409533987552231426/410919807156879361/CustomKHUx.png)
+
 ## What is Custom KHUx?
 
 Custom KHUx is a fan made version of the popular mobile game Kingdom Hearts Union Cross. It is currently in development and being created by InstaLight.
