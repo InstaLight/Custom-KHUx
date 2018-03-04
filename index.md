@@ -4,7 +4,7 @@
 
 Custom KHUx is a fan made version of the popular mobile game Kingdom Hearts Union Cross. It is currently in development and being created by InstaLight.
 
-If you are interested in being a beta tester, message me on discord at IηѕтαLιgнт ✨#0685
+If you are interested in being a beta tester, message me on discord at InstaLight#0685
 
 
 ### About InstaLight
@@ -14,7 +14,8 @@ InstaLight is a small Youtuber and software developer. In fact, you should go ch
 
 ### Discord
 
-Join the Discord to talk about and suggest things for Custom KHUx! https://discord.gg/txaJ6c5
+Join the Discord to talk about and suggest things for Custom KHUx! Hey there everyone here’s some quick rules and info for everyone!
+ https://discord.gg/XH7rCcx
 
 ### Beta Testing
 
