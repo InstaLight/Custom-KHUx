@@ -27,10 +27,23 @@ Message me or ping me if you want to sign up for either one
 
 We are also currently lokking for artic people who wouldn't mind helping out with the game.
 
-### News
+### DEV UPDATES
 
-The first Custom Medal has been decided! Introducing Knuckles EX!
-![Knuckles](https://cdn.discordapp.com/attachments/398579942021005314/401573536352960516/image.jpg)
+@everyone Here we go
+Dev Update 1/ 50000 (idk)
+This update will be sort of a roadmap saying when I would like certain things to happen
+
+
+Ver 0.1 (Beta) This won’t have that much probably just having the ability to pull, customize 2 - 3 keyblades, and fight raid bosses. I would like this to come out around mid summer of this year (2018)
+
+Ver 0.2 (Beta 2) This will add in more keyblades, ability to link your account to twitter(hopefully). About a month or 2 after initial beta
+
+Ver 0.3 (Multiplayer Beta) Most likely late fall (having to get money and all to pay for a server and stuff) this will add in party’s and will be testing union cross
+
+Ver 0.4 (Final Beta(Hopefully)) this will be the final beta to fix some things and add in a majority of new things and yeah happy happy
+
+Confirmed things: The daily medals, new pet system, more daily jewels, I don’t remember the rest 😂
+Also sry for the ping
 
 
 
