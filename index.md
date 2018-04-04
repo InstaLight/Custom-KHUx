@@ -29,6 +29,13 @@ We are also currently lokking for artic people who wouldn't mind helping out wit
 
 ### DEV UPDATES
 
+Ok everyone its time for Dev Update #2
+
+I have recently installed the game engine Cocos2dx, the same one used to create KHUx, onto my laptop. After some failed attempls, I finally got it up and running. I'm currently starting to transfer KHUx files from my iPhone to my laptop, hopping to be able to work off of that. Once thats complete, I will start to move over the custom medals and the idea most of you gave me. Thank you all so much for the recent support,
+-Light
+
+------------------------------------------------------------------------------------------------------------------
+
 @everyone Here we go
 Dev Update 1/ 50000 (idk)
 This update will be sort of a roadmap saying when I would like certain things to happen
